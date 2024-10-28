@@ -1,18 +1,144 @@
-1. Quanto é 1+1?
-A. 2
-B. 3
-C. 4
-D. 5
-A
-2. Quanto é 2+1?
-A. 2
-B. 3
-C. 4
-D. 5
+O que significa o comando printf na linguagem C?
+A. Funcao que pega o que for escrito
+B. Funcao que imprime na tela do usuario
+C. Comando para salvar alguma informacao no arquivo
+D. Comando que inicia um laco de repeticao
 B
-3. Quanto é 2+2?
-A. 2
-B. 3
-C. 4
-D. 5
+O que significa o comando scanf na linguagem C?
+A. Comando que inicia um laco de repeticao
+B. Funcao que imprime na tela do usuario
+C. Comando para salvar alguma informacao no arquivo
+D. Funcao que pega o que for escrito
+D
+Para que serve a diretiva #include na linguagem C?
+A. Usado para incluir biblioteca ou algum arquivo ao programa
+B. Usado para incluir numeros aleatorios no programa
+C. Usado para incluir somente arquivos no programa
+D. Nao existe essa diretiva
+A
+Em linguagem C, um vetor com tamanho maior que 1 (um), do tipo char, terminando com o caractere nulo "\0" indica um tipo de dado conhecido como:
+A. Int
+B. Float
+C. String
+D. Double
 C
+Como faz comentarios em C?
+A. --
+B. ##
+C. <-->
+D. \
+D
+Como criar uma variavel com valor numerico 5?
+A. float x = 5
+B. int x = 5;
+C. x = 5
+D. int x = 2
+B
+Qual eh o operador usado para comparar ?
+A. =>
+B. ==
+C. !=
+D. =<
+B
+Como se comeca um looping em C?
+A. for(x = 0; x <= 100; x++){}
+B. for(x <= 100)[]
+C. for(x = 0; x <= 100; x++):
+D. for x = 0; x <= 100; x++ {}
+A
+Como se chama uma funcao?
+A. funcao{}
+B. funcao<>
+C. funcao[]
+D. funcao()
+D
+O que significa o \n ?
+A. Finalizar o programa
+B. Iniciar um paragrafo
+C. Fechar o printf
+D. Finalizar a linha do print e comecar a seguinte
+D
+Porque em C temos que fazer as funcoes antes da Main?
+A. Para permitir a alteracao de um trecho de codigo de uma forma mais rapida
+B. Por estetica
+C. Para melhor compreensao do codigo
+D. Para fazer o codigo repetir varias vezes esse trecho
+A
+Na estrutura de condicoes so eh possivel analisar 2 condicoes.
+A. Verdadeiro
+B. Falso
+
+
+B
+Quando utilizamos o conector "OU" eh necessario que as duas condicoes envolvidas sejam verdadeiras para obtermos um retorno
+A. Verdadeiro
+B. Falso
+
+
+B
+Quando utilizamos o conector logico "E" se faz necessario que ao menos uma das condicoes seja verdadeira para o programa mostrar o resultado.
+A. Falso
+B. Verdadeiro
+
+
+A
+A instrucao IF em sua forma BASICA(Sem conectivos) so testa uma condicao
+A. Verdadeiro
+B. Falso
+
+
+A
+Quando se cria uma variavel em C, o endereco de memoria eh atribuido a variavel ?
+A. Verdadeiro
+B. Falso
+
+
+A
+Qual a funcao do comando system("pause") na linguagem C?
+A. Pare a execucao do programa ate que seja digitada a tecla Enter
+B. O sistema para de funcionar e se da como concluido
+
+
+A
+Na linguagem de programacao C, o comando _______ permite a criacao de estruturas de dados heterogeneas. Qual alternativa completa a coluna corretamente?:
+A. Array
+B. Vetor
+C. Struct
+D. Printf
+C
+Em C, qual a estrutura de repeticao for que, por meio da variavel de controle i, percorre o intervalo do indice 0 ate o indice 32 inclusive, na ordem nao decrescente?
+A. for(i = 0; i < 33; i++)
+B. for(i = 32; i > -1; i--)
+C. for(i = 32; i > 0; i--)
+D. for(i = 0; i < 32; i++)
+A
+Qual eh o formato usado para printar inteiros ?
+A. "%s"
+B. "%f"
+C. "%c"
+D. "%d"
+D
+Em C, como se chama o seguinte item? int Numeros[] = {25, 50, 75, 200, 82}
+A. Struct
+B. Ponteiro
+C. Array
+D. String
+C
+Porque se usa arrays?
+A. Para ler algum dado digitado pelo usuario
+B. Facilitar o acesso a um valor sem ter que copia-lo
+C. Armazenar os dados de uma mesma entidade
+D. Para armazenar mais de um valor em uma unica variavel
+D
+O metodo Main nao pode ser declarado dentro de uma classe e deve conter um tipo de retorno void ou string.
+A. Verdadeiro
+B. Falso
+
+
+B
+A passagem de parametros por referencia eh caracterizada pelo fato de ser passado, para a funcao chamada, o endereco do parametro, e nao o seu valor, o que permite que a funcao chamada possa, por meio do endereco do parametro, modificar o seu valor.
+A. Verdadeiro
+B. Falso
+
+
+A
