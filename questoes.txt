@@ -1,20 +1,20 @@
 O que significa o comando printf na linguagem C?
-A. Funcao que pega o que for escrito
-B. Funcao que imprime na tela do usuario
-C. Comando para salvar alguma informacao no arquivo
-D. Comando que inicia um laco de repeticao
+A. Função que imprime um número
+B. Função que pega que for escrito dentro de ("") e imprime na tela do usuário 
+C. Comando para salvar uma informação no arquivo
+D. Comando que inicia um laço de repetição
 B
-O que significa o comando scanf na linguagem C?
-A. Comando que inicia um laco de repeticao
-B. Funcao que imprime na tela do usuario
-C. Comando para salvar alguma informacao no arquivo
-D. Funcao que pega o que for escrito
+O que faz o comando scanf na linguagem C?
+A. Inicia um laço de repetição
+B. Função que imprime a mensagem na tela do usuário
+C. Salva alguma informação dentro de um arquivo txt
+D. Lê dados de entrada do usuário a partir do teclado
 D
 Para que serve a diretiva #include na linguagem C?
 A. Usado para incluir biblioteca ou algum arquivo ao programa
-B. Usado para incluir numeros aleatorios no programa
+B. Usado para incluir números aleátorios no programa
 C. Usado para incluir somente arquivos no programa
-D. Nao existe essa diretiva
+D. Não existe essa diretiva
 A
 Em linguagem C, um vetor com tamanho maior que 1 (um), do tipo char, terminando com o caractere nulo "\0" indica um tipo de dado conhecido como:
 A. Int
@@ -22,31 +22,31 @@ B. Float
 C. String
 D. Double
 C
-Como faz comentarios em C?
+O que indica um comentário em C?
 A. --
 B. ##
 C. <-->
 D. \
 D
-Como criar uma variavel com valor numerico 5?
+Como criar uma variável com valor númerico 5?
 A. float x = 5
 B. int x = 5;
 C. x = 5
 D. int x = 2
 B
-Qual eh o operador usado para comparar ?
+Qual é o operador usado para comparar?
 A. =>
 B. ==
 C. !=
 D. =<
 B
-Como se comeca um looping em C?
+Como começa um looping em C?
 A. for(x = 0; x <= 100; x++){}
 B. for(x <= 100)[]
 C. for(x = 0; x <= 100; x++):
 D. for x = 0; x <= 100; x++ {}
 A
-Como se chama uma funcao?
+Como se chama uma função?
 A. funcao{}
 B. funcao<>
 C. funcao[]
@@ -54,89 +54,89 @@ D. funcao()
 D
 O que significa o \n ?
 A. Finalizar o programa
-B. Iniciar um paragrafo
+B. Iniciar um parágrafo
 C. Fechar o printf
-D. Finalizar a linha do print e comecar a seguinte
+D. Finalizar a linha do print e começar a seguinte
 D
-Porque em C temos que fazer as funcoes antes da Main?
-A. Para permitir a alteracao de um trecho de codigo de uma forma mais rapida
-B. Por estetica
-C. Para melhor compreensao do codigo
-D. Para fazer o codigo repetir varias vezes esse trecho
+Por que se deve fazer as funções antes da main?
+A. Para permitir a alteração de um trecho de código de forma mais rápida
+B. Por estética
+C. Para melhor compreensão do código
+D. Para fazer o código repetir várias vezes o trecho
 A
-Na estrutura de condicoes so eh possivel analisar 2 condicoes.
+Na estrutura de condições só é possível analisar 2 condições.
 A. Verdadeiro
 B. Falso
 
 
 B
-Quando utilizamos o conector "OU" eh necessario que as duas condicoes envolvidas sejam verdadeiras para obtermos um retorno
+Quando utilizamos o conector "OU" é necessário que as duas condições envolvidas sejam verdadeiras para obtermos um retorno
 A. Verdadeiro
 B. Falso
 
 
 B
-Quando utilizamos o conector logico "E" se faz necessario que ao menos uma das condicoes seja verdadeira para o programa mostrar o resultado.
+Quando utilizamos o conector logico "E" se faz necessário que ao menos uma das condições seja verdadeira para o programa mostrar o resultado.
 A. Falso
 B. Verdadeiro
 
 
 A
-A instrucao IF em sua forma BASICA(Sem conectivos) so testa uma condicao
+A instrução IF em sua forma BÁSICA(sem conectivos) só testa uma condição
 A. Verdadeiro
 B. Falso
 
 
 A
-Quando se cria uma variavel em C, o endereco de memoria eh atribuido a variavel ?
+Quando se cria uma váriavel em C, o endereço de memória é atribuido a váriavel
 A. Verdadeiro
 B. Falso
 
 
 A
-Qual a funcao do comando system("pause") na linguagem C?
-A. Pare a execucao do programa ate que seja digitada a tecla Enter
-B. O sistema para de funcionar e se da como concluido
+Qual é a função do comando system("pause") na linguagem C?
+A. Parar a execução do programa até que pressione a tecla Enter
+B. O sistema para de funcionar e se da como concluído
 
 
 A
-Na linguagem de programacao C, o comando _______ permite a criacao de estruturas de dados heterogeneas. Qual alternativa completa a coluna corretamente?:
+Na linguagem de programação C, o comando _______ permite a criação de estruturas de dados heterogêneos. Qual alternativa completa a coluna corretamente?:
 A. Array
 B. Vetor
 C. Struct
 D. Printf
 C
-Em C, qual a estrutura de repeticao for que, por meio da variavel de controle i, percorre o intervalo do indice 0 ate o indice 32 inclusive, na ordem nao decrescente?
+Em C, qual é a estrutura de repetição for que, por meio da variável de controle i, percorre o intervalo do índice 0 até o índice 32 na ordem não decrescente?
 A. for(i = 0; i < 33; i++)
 B. for(i = 32; i > -1; i--)
 C. for(i = 32; i > 0; i--)
 D. for(i = 0; i < 32; i++)
 A
-Qual eh o formato usado para printar inteiros ?
+Qual é o formato usado para imprimir inteiros?
 A. "%s"
 B. "%f"
 C. "%c"
 D. "%d"
 D
-Em C, como se chama o seguinte item? int Numeros[] = {25, 50, 75, 200, 82}
+Em C, como se chama o item "int Numeros[] = {25, 50, 75, 200, 82}"?
 A. Struct
 B. Ponteiro
 C. Array
 D. String
 C
-Porque se usa arrays?
-A. Para ler algum dado digitado pelo usuario
+Por que se usa arrays?
+A. Para ler dados digitados pelo usuário
 B. Facilitar o acesso a um valor sem ter que copia-lo
 C. Armazenar os dados de uma mesma entidade
-D. Para armazenar mais de um valor em uma unica variavel
+D. Para armazenar mais de um valor em uma única váriavel
 D
-O metodo Main nao pode ser declarado dentro de uma classe e deve conter um tipo de retorno void ou string.
+O metodo Main não pode ser declarado dentro de uma classe e deve conter um tipo de retorno void ou string.
 A. Verdadeiro
 B. Falso
 
 
 B
-A passagem de parametros por referencia eh caracterizada pelo fato de ser passado, para a funcao chamada, o endereco do parametro, e nao o seu valor, o que permite que a funcao chamada possa, por meio do endereco do parametro, modificar o seu valor.
+A passagem de parâmetros por referência é caracterizada pelo fato de ser passado para a função chamada o endereço do parâmetro, e não o seu valor, o que permite que a função chamada possa por meio do endereço do parâmetros, modificar o seu valor.
 A. Verdadeiro
 B. Falso
 

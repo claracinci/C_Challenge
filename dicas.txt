@@ -1,24 +1,24 @@
-Print em portugues significa imprimir.
-Esse comando eh usado para ler o teclado.
+Print em português significa imprimir.
+Esse comando é usado para ler do teclado.
 Usado para incluir qualquer tipo de arquivo ou biblioteca no programa.
-Esse tipo de dado eh comumente usado para representar texto.
-Use dois caracteres para iniciar um comentario de uma linha.
-5 eh um numero inteiro, entao pense no tipo correto.
-Este operador verifica se dois valores sao iguais.
-Este eh um formato padrao para loops em C.
-Para chamar uma funcao voce deve usar parenteses.
-Este caractere eh usado para mover o cursor para a proxima linha.
-Isso permite que o compilador reconheca a funcao antes de sua chamada.
+Esse tipo de dado é comumente usado para representar texto.
+Use dois caracteres para iniciar um comentário de uma linha.
+Cinco é um número inteiro, então pense no tipo correto.
+Este operador verifica se dois valores são iguais.
+Este é um formato padrão para loops em C.
+Para chamar uma função, você deve usar parênteses.
+Este caractere é usado para mover o cursor para a próxima linha.
+Isso permite que o compilador reconheça a função antes de sua chamada.
 Considere a flexibilidade das estruturas condicionais em C.
-Pense sobre o que significa 'ou' em logica.
-Considere como o 'E' funciona em logica
-Reflita sobre o proposito do IF.
-Cada variavel ocupa um espaco na memoria.
-O Enter e uma tecla essencial para esse comando.
-Este comando e utilizado para definir um tipo que pode conter diferentes tipos de dados.
-Pense em como a variavel de controle deve ser incrementada para incluir o 32.
-O modo 'wb+' permite leitura e escrita em arquivos binarios.
-Esse formato comeca com o simbolo de porcentagem seguido de uma letra.
-Este termo e usado para se referir a uma colecao de elementos do mesmo tipo.
-Este recurso e utilizado para armazenar multiplos valores relacionados de forma organizada.
+Pense sobre o que significa 'ou' em lógica.
+Considere como o 'E' funciona em lógica.
+Reflita sobre o propósito do IF.
+Cada variável ocupa um espaço na memória.
+O Enter é uma tecla essencial para esse comando.
+Este comando é utilizado para definir um tipo que pode conter diferentes tipos de dados.
+Pense em como a variável de controle deve ser incrementada para incluir o 32.
+O modo 'wb+' permite leitura e escrita em arquivos binários.
+Esse formato começa com o símbolo de porcentagem seguido de uma letra.
+Este termo é usado para se referir a uma coleção de elementos do mesmo tipo.
+Este recurso é utilizado para armazenar múltiplos valores relacionados de forma organizada.
 Reflita sobre a estrutura de programas em C e onde o main geralmente se encontra.
